@@ -7,7 +7,10 @@ public class person {
 	
 	public void add() {
 		
+	}public void sub() {
+	}
+	
 	}
 	
 
-}
+
